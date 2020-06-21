@@ -1,0 +1,41 @@
+EVENT CATEGORY,EVENT GROUP,EVENT SUBGROUP,EVENT TYPE,PLACE,Year,Freq,EVENT START DATE,FATALITIES,INJURED / INFECTED,EVACUATED,ESTIMATEDTOTALCOST,NORMALIZED TOTAL COST,EVENT END DATE,FEDERAL DFAA PAYMENTS,PROVINCIAL DFAA PAYMENTS,PROVINCIAL DEPARTMENT PAYMENTS,MUNICIPAL COSTS,OGD COSTS,INSURANCE PAYMENTS,NGO PAYMENTS,UTILITY - PEOPLE AFFECTED,MAGNITUDE
+Disaster,Natural,Meteorological - Hydrological,Flood,Fort McMurray AB,2016,1,7/30/2016 0:00,,,,0,0,7/31/2016 0:00,,,,,,,,,
+Disaster,Natural,Meteorological - Hydrological,Flood,Chestermere AB,2015,1,7/12/2015 0:00,,,,0,0,7/12/2015 0:00,,,,,,,,20000,
+Disaster,Natural,Meteorological - Hydrological,Flood,Southern Alberta,2014,1,6/15/2014 0:00,,,,,,,,,,,,,,,
+Disaster,Natural,Meteorological - Hydrological,Flood,Southern Alberta,2013,2,6/19/2013 0:00,4,0,100000,2715742000,132690977.2,6/28/2013 0:00,1015742000,,,,,1700000000,,,
+Disaster,Natural,Meteorological - Hydrological,Flood,"Eckville, Lacombe, Paddle River, Fort Vermilion, and Peace River AB",2011,0,7/12/2011 0:00,0,0,156,0,0,7/14/2011 0:00,,,,,,,,700,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Calgary AB,2011,1,5/29/2011 0:00,0,0,141,0,0,5/31/2011 0:00,,,,,,,,,
+Disaster,Natural,Meteorological - Hydrological,Flood,Southern Alberta and Saskatchewan,2010,2,6/17/2010 0:00,0,0,2065,1031670000,53133218.9,6/17/2010 0:00,75320000,,206350000,,750000000,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,High River AB,2008,3,5/24/2008 0:00,0,0,0,0,0,5/24/2008 0:00,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Southern Alberta,2005,3,6/6/2005 0:00,2,,7028,129049397,7236414.8,6/8/2005 0:00,129049397,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Southern Alberta,2002,3,6/11/2002 0:00,0,0,350,16054182,963250.9,6/11/2002 0:00,8834091,7220091,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Clearwater AB,1999,2,7/4/1999 0:00,0,0,350,8751452,565217.6,7/5/1999 0:00,2977089,5774363,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Lesser Slave Lake area AB,1997,0,6/17/1997 0:00,0,0,0,664352,44094.2,6/20/1997 0:00,,,664352,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Peace River AB,1997,1,4/19/1997 0:00,0,0,4000,47368494,3143926.6,4/23/1997 0:00,18664180,8343702,20360612,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Lesser Slave Lake area AB,1996,0,6/17/1996 0:00,0,0,922,18159797,1225633.1,6/21/1996 0:00,5693853,5466769,6999175,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Sunny Valley AB,1996,1,1/1/1996 0:00,0,0,0,100307,6769.9,1/1/1996 0:00,,,100307,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Southern Alberta,1995,0,6/6/1995 0:00,0,0,0,154623306,10590637.4,6/9/1995 0:00,34061897,9324782,12672842,76670115,,21893670,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Poplar Bay AB,1995,3,1/1/1995 0:00,0,0,0,35830,2454.1,1/1/1995 0:00,,,35830,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Peace River AB,1992,0,2/28/1992 0:00,0,0,3800,2866371,204740.8,3/4/1992 0:00,,,2866371,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Lethbridge AB,1992,2,1/1/1992 0:00,0,0,0,219277,15662.6,1/1/1992 0:00,,,219277,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Western Alberta,1990,2,5/25/1990 0:00,1,0,221,22147336,1694949.2,7/4/1990 0:00,8229503,6395393,7522440,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Lesser Slave Lake region AB,1988,0,7/5/1988 0:00,0,0,2800,35296621,2974434.4,7/8/1988 0:00,7787911,6008710,,,,21500000,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Central and Southern Alberta,1988,0,6/28/1988 0:00,0,0,0,,,6/29/1988 0:00,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,"Lethbridge, Taber, Irma and Wainwright AB",1988,2,6/4/1988 0:00,0,0,0,,,6/11/1988 0:00,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Saskatchewan and Alberta,1986,0,7/16/1986 0:00,1,0,0,17889807,1636262.8,7/24/1986 0:00,9484477,8405330,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,North-central Alberta,1986,3,7/13/1986 0:00,0,0,0,12843964,1174752.8,7/24/1986 0:00,6809368,6034596,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Central Alberta,1983,1,1/1/1983 0:00,0,0,0,,,1/1/1983 0:00,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Grande Prairie AB,1982,1,7/13/1982 0:00,0,0,0,,,8/3/1982 0:00,0,0,,,,,,115994,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Edmonton AB,1981,2,1/1/1981 0:00,4,0,0,,,1/1/1981 0:00,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Calgary AB,1979,0,1/1/1979 0:00,0,0,0,,,1/1/1979 0:00,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Lethbridge AB,1979,0,1/1/1979 0:00,0,0,0,,,1/1/1979 0:00,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Peace River AB,1979,1,1/1/1979 0:00,0,0,0,,,1/1/1979 0:00,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,"Kicking Horse Pass, Alberta - British Columbia border",1978,0,11/1/1978 0:00,0,0,0,20087353,3293008.7,11/1/1978 0:00,7372141,12715212,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Edmonton AB,1978,0,7/10/1978 0:00,0,0,0,1597600,261901.6,7/11/1978 0:00,87859,1509741,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Milk River and area AB,1978,1,4/1/1978 0:00,0,0,0,,,8/31/1978 0:00,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,"Fort McMurray, Rainbow Lake AB",1977,2,1/1/1977 0:00,0,0,0,,,1/1/1977 0:00,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Southwestern AB,1975,1,6/1/1975 0:00,1,0,0,,,6/1/1975 0:00,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Central and Northern Alberta,1974,2,3/1/1974 0:00,0,0,0,8532000,1953893.1,6/30/1974 0:00,4246073,4285927,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Smoky and Peace River Basins AB,1972,24,6/11/1972 0:00,0,0,105,,,6/13/1972 0:00,0,0,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,Red Deer River AB,1948,33,4/21/1948 0:00,0,0,,,,4/21/1948 0:00,,,,,,,,0,0
+Disaster,Natural,Meteorological - Hydrological,Flood,North Saskatchewan River AB and SK,1915,,1/1/1915 0:00,0,0,2000,,,1/1/1915 0:00,,,,,,,,0,0
